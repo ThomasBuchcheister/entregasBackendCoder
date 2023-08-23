@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Iphone 14 pro max",
+        "description": "Telefono Apple",
+        "code": "AI14PM",
+        "price": 2000,
+        "stock": 24,
+        "category": "Apple",
+        "status": true
+    },
+    {
+        "title": "Iphone 14 pro",
+        "description": "Telefono Apple",
+        "code": "AI14P",
+        "price": 1800,
+        "stock": 0,
+        "category": "Apple",
+        "status": false
+    },
+    {
+        "title": "Iphone 14",
+        "description": "Telefono Apple",
+        "code": "AI14",
+        "price": 1600,
+        "stock": 10,
+        "category": "Apple",
+        "status": true
+    },
+    {
+        "title": "Iphone 13 pro max",
+        "description": "Telefono Apple",
+        "code": "AI13PM",
+        "price": 1700,
+        "stock": 0,
+        "category": "Apple",
+        "status": false
+    },
+    {
+        "title": "Iphone 13 pro",
+        "description": "Telefono Apple",
+        "code": "AI13P",
+        "price": 1400,
+        "stock":9,
+        "category": "Apple",
+        "status": true
+    },
+    {
+        "title": "Iphone 13",
+        "description": "Telefono Apple",
+        "code": "AI13",
+        "price": 1300,
+        "stock": 6,
+        "category": "Apple",
+        "status": true
+    },
+    {
+        "title": "Iphone 12 pro max",
+        "description": "Telefono Apple",
+        "code": "AI12PM",
+        "price": 1400,
+        "stock": 1,
+        "category": "Apple",
+        "status": true
+    },
+    {
+        "title": "Iphone 12 pro",
+        "description": "Telefono Apple",
+        "code": "AI12P",
+        "price": 1200,
+        "stock": 0,
+        "category": "Apple",
+        "status": false
+    },
+    {
+        "title": "Iphone 12",
+        "description": "Telefono Apple",
+        "code": "AI12",
+        "price": 1100,
+        "stock": 14,
+        "category": "Apple",
+        "status": true
+    },
+    {
+        "title": "Motorola Edge 40",
+        "description": "Telefono Motorola",
+        "code": "ME40",
+        "price": 600,
+        "stock": 123,
+        "category": "Motorola",
+        "status": true
+    },
+    {
+        "title": "Motorola Edge 40 pro",
+        "description": "Telefono Motorola",
+        "code": "ME40P",
+        "price": 800,
+        "stock": 3,
+        "category": "Motorola",
+        "status": true
+    },
+    {
+        "title": "Samsung galaxi fold 4",
+        "description": "Telefono Samsung",
+        "code": "SGF4",
+        "price": 1500,
+        "stock": 32,
+        "category": "Samsung",
+        "status": true
+    },
+    {
+        "title": "Samsung galaxi s23 plus",
+        "description": "Telefono Samsung",
+        "code": "SGS23P",
+        "price": 1000,
+        "stock": 0,
+        "category": "Samsung",
+        "status": false
+    },
+    {
+        "title": "Samsung galaxi s23",
+        "description": "Telefono Samsung",
+        "code": "SGS23",
+        "price": 900,
+        "stock": 2,
+        "category": "Samsung",
+        "status": true
+    },
+    {
+        "title": "Samsung galaxi A54",
+        "description": "Telefono Samsung",
+        "code": "SGA54",
+        "price": 500,
+        "stock": 0,
+        "category": "Samsung",
+        "status": false
+    }
+]
